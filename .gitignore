@@ -2,7 +2,6 @@ build/
 dist/
 .tox/
 .eggs/
-poetry.lock
 *.egg/*
 *.egg-info
 *.pyc
